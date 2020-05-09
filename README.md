@@ -5,7 +5,8 @@ Folder Structure:
   * ***Team Analytics***
       * Team Pipeline
           * Script to scrape team data for the past 10 years into SQLite Database
-          * Prepped Team Dataset
+          * Script to ingest raw Team Data -- cleaning and data prep
+          * Complete Team Dataset
       * Team Analytics
           * Notebooks to analyze Team Data
   * ***Player Analytics***
