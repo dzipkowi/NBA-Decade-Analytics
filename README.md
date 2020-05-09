@@ -7,4 +7,4 @@ Folder Structure:
   * Analytics Folder
       * Notebooks to analyze the data
  
-Please see sample notebooks ***here*** or ***here.*** Enjoy!
+View sample notebooks ***here*** or ***here.*** 
