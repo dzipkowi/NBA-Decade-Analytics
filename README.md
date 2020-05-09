@@ -1,6 +1,6 @@
 # NBA Analytics - A look into the last 10 years of NBA Basketball!
 
-File Structure:
+Folder Structure:
   * Data Pipeline Folder
       * Scripts for extracting and sending the data into SQLite Databases 
       * Data files
