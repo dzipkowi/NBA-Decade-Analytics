@@ -2,9 +2,16 @@
 
 Folder Structure:
   * Data Pipeline Folder
-      * Scripts for extracting and sending the data into SQLite Databases 
-      * Data files
+      * Team Pipeline
+          * Script to scrape team data for the past 10 years into SQLite Database
+          * Prepped Team Dataset
+      * Player Pipeline
+          * Script to scrape player data from the past 10 years into SQLite Database
+          * Prepped Player Dataset
   * Analytics Folder
-      * Notebooks to analyze the data
+      * Team Analytics
+          * Notebooks to analyze Team Data
+      * Player Analytics
+          * Notebooks to analyze Player Data
  
 View sample notebooks ***here*** or ***here.*** 
